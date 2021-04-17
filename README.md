@@ -38,8 +38,10 @@
         target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> 
-  
-    
+  <a href="https://www.w3schools.com/mysql/"
+        target="_blank"> <img
+            src="https://camo.githubusercontent.com/60c3beb42b5ddada6f66b6a6ae5f50a84aaacd769407d81c94434f82949d6103/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35302f66312f35382f35306631353832613935626461633130663163336661323935633862393437622e706e67"
+            alt="javascript" width="40" height="40" /> </a> 
 </p>
 
 [![Ojaswi Agarwal github stats](https://github-readme-stats.vercel.app/api?username=ojaswi-454&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
