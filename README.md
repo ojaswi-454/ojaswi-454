@@ -45,6 +45,9 @@
     <a href="https://nodejs.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" />
+        <a href="https://expressjs.com" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="express" width="40" height="40" /> </a>
 </p>
 
 [![Ojaswi Agarwal github stats](https://github-readme-stats.vercel.app/api?username=ojaswi-454&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
