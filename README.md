@@ -17,6 +17,9 @@
     <a href="https://instagram.com/ojaswi_agarwal?igshid=btxcw6gcpqs9" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
             width="40" /></a>
+    <a href="https://ejs.co/" target="_blank"> <img
+            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png"
+            alt="Ejs" width="40" height="40" /> </a>
 
 </p>
 
