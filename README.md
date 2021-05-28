@@ -57,6 +57,9 @@
           <a href="https://ejs.co/" target="_blank"> <img
             src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png"
             alt="Ejs" width="40" height="40" /> </a>
+         <a href="https://www.mongodb.com/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" /> </a>
 
 </p>
 
